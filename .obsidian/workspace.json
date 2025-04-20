@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "37e18a261c6d2d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "998022d423711bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c58866e791c77113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios/6to Semestre/Mineria/Probabilidad Condicional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probabilidad Condicional"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed859f71c2ca0481",
+    "type": "split",
+    "children": [
+      {
+        "id": "429bd00263f8d4c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4e05cfdf508061",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d62b1f5b96614c1a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9bc63eb88b749fae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3158da294d2bbb2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "71413b8426fe75e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4c5bc17f9a7daf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudios/6to Semestre/Fundamentos de la Programacion/Clase 7 de Marzo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Clase 7 de Marzo"
+            }
+          },
+          {
+            "id": "b88987bc6382faa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mineria/Clase 11 Abril Practica 7 pt 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Clase 11 Abril Practica 7 pt 2"
+            }
+          },
+          {
+            "id": "04ad812c6ec2face",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "81a47565548803bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mineria/Clase 11 Abril Practica 7 pt 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Clase 11 Abril Practica 7 pt 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "c58866e791c77113",
+  "lastOpenFiles": [
+    "Estudios/6to Semestre/Mineria/Clasificador Bayesiano.md",
+    "Estudios/6to Semestre/Mineria/Eventos estadisticamente independientes.md",
+    "Estudios/6to Semestre/Mineria/Clasificador Bayesiano Ingenuo.md",
+    "Estudios/6to Semestre/Mineria/Preprocesamiento.md",
+    "Estudios/6to Semestre/Mineria/Probabilidad Condicional.md",
+    "Estudios/6to Semestre/Mineria/Teorema de Bayes.md",
+    "Estudios/6to Semestre/Mineria/Suavizado Laplaciano.md",
+    "Practicas/Practica 14 Feb MDD.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones Basicas.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones de Alto Nivel.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones recursivas lisp.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Entornos de variable.md",
+    "Practicas/Practica 7 MDD.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Sintaxis lisp.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones basicas lisp 2.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación",
+    "Estudios/6to Semestre/Sistemas Operativos 2",
+    "Estudios/6to Semestre/Mineria/Sin nombre",
+    "Estudios/6to Semestre/Redes De Computadoras",
+    "Estudios/6to Semestre/Mineria",
+    "Estudios/6to Semestre/Redes De Computadoras/Control de Errores RQ.md",
+    "Estudios/6to Semestre/Sistemas Operativos 2/Dispositivos Input Output.md",
+    "Estudios/6to Semestre/Sistemas Operativos 2/Memoria Compartida.md",
+    "Estudios/6to Semestre/Sistemas Operativos 2/Sistema de Archivos.md",
+    "Estudios/6to Semestre/Mineria/Stop Words.md",
+    "Estudios/6to Semestre/Redes De Computadoras/Cableado Ethernet.md",
+    "Estudios/6to Semestre/Redes De Computadoras/Tecnologías Inalámbricas.md",
+    "Estudios/6to Semestre/Redes De Computadoras/Topologias.md",
+    "Estudios/6to Semestre/Redes De Computadoras/Capas.md",
+    "Practicas",
+    "Estudios/6to Semestre/Clase 3-Abril.md",
+    "Notion/Nota.md",
+    "Estudios/Images/6fe66bea-9c5b-4d59-a421-1d1e5eb75f51.png",
+    "Estudios/Images/8fd29540-7ae5-410d-bb9b-593ec8eee1e1.png",
+    "Estudios/Images/image 38.png",
+    "Estudios/Images/image.png",
+    "Estudios/Images/c326a831-f87b-49ce-9c54-9e63c8af034f.png",
+    "Estudios/Images/e0919d4c-d67e-4a33-9c45-3bcdaa60912f.png",
+    "Estudios/Images/7e1c2b71-778e-4f67-8325-ab1208e2e906.png",
+    "Estudios/Images/b712008f-9d39-4ac1-8975-dd693a3b10dc.png",
+    "Estudios/Images/image 37.png",
+    "Estudios/Images/image 36.png",
+    "Notion",
+    "Sin título.canvas",
+    "Notas",
+    "Media-Referencias",
+    "Estudios/6to Semestre"
+  ]
+}
