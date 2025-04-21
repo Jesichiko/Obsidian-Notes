@@ -1,6 +1,6 @@
 ---
 Fecha de creación: Fecha inválida
-Clase: Fun
+Clase: Fundamentos de la Programación
 ---
 21/Febrero/25
 Usamos clisp, ejemplo:

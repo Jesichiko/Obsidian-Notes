@@ -1,6 +1,6 @@
 ---
 Fecha de creación: Fecha inválida
-Clase: Fun
+Clase: Fundamentos de la Programación
 ---
 Hay funciones como reverse que invierten una lista dada:
 

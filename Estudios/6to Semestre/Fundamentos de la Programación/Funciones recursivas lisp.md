@@ -1,6 +1,6 @@
 ---
 Fecha de creación: Fecha inválida
-Clase: Fun
+Clase: Fundamentos de la Programación
 ---
 Se crearon las primeras funciones, _sumar, cuenta_ para visualizar como es la sintaxis de una 
 función **recursiva**:

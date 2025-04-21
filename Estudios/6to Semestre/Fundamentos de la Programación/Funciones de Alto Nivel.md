@@ -1,6 +1,6 @@
 ---
 Fecha de creación: Fecha inválida
-Clase: Fun
+Clase: Fundamentos de la Programación
 ---
 A diferencias de las [[Funciones Basicas]] En Lisp hay **funciones de alto nivel** que van mas allá de operaciones elementales.
 
