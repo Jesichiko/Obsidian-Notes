@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios/6to Semestre/Fundamentos de la Programación/Entornos de variable.md",
+                "file": "Estudios/6to Semestre/Mineria/Clasificador Bayesiano Ingenuo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entornos de variable"
+              "title": "Clasificador Bayesiano Ingenuo"
             }
           }
         ]
@@ -167,8 +167,10 @@
   },
   "active": "ddf5cbbbe77e6617",
   "lastOpenFiles": [
-    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones Basicas.md",
+    "Estudios/6to Semestre/Mineria/Clasificador Bayesiano.md",
+    "Estudios/6to Semestre/Mineria/Clasificador Bayesiano Ingenuo.md",
     "Estudios/6to Semestre/Fundamentos de la Programación/Entornos de variable.md",
+    "Estudios/6to Semestre/Fundamentos de la Programación/Funciones Basicas.md",
     "Estudios/6to Semestre/Fundamentos de la Programación/Funciones de Alto Nivel.md",
     "Estudios/6to Semestre/Fundamentos de la Programación/Funciones recursivas lisp.md",
     "Estudios/6to Semestre/Fundamentos de la Programación/Sintaxis lisp.md"
